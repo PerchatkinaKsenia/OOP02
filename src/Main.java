@@ -24,7 +24,7 @@ public class Main {
         System.out.println(clinic.getFlyble());
         System.out.println(clinic.getSwimble());
 
-        // персонал клиники и проверка методов работы с персоналом
+        // Добавлением персонала клиники и проверка методов работы с персоналом
         System.out.println("---------------------------------");
 
         Nurse nurse1 = new Nurse("Елена", LocalDate.of(1992, 3, 1),
